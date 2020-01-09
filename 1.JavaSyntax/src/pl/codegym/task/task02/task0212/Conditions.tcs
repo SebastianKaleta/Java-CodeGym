@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task02.task0212"\n\nSzalone ósemki
+
+Utwórz 10 zmiennych Kot i 8 obiektów Kot.
+
+
+Requirements:
+1.	Program nie powinien wyświetlać tekstu na ekranie.
+2.	Metoda main musi mieć 10 zmiennych Kot.
+3.	W metodzie main, 8 zmiennych musi być inicjalizowanych natychmiast po ich utworzeniu.
+4.	W klasie Kot nie powinno być żadnych zmiennych.
+5.	W klasie Kot nie powinno być żadnych metod.
+
+

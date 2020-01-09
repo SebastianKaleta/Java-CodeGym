@@ -1,0 +1,15 @@
+taskKey="pl.codegym.task.task01.task0105"\n\nDeklaruj zmienne
+
+Napisz program, który w metodzie main deklaruje następujące zmienne:
+String imie, int wiek oraz String miasto.
+
+Uwaga: „Deklarowanie zmiennej” znaczy to samo, co „tworzenie zmiennej”.
+
+
+Requirements:
+1.	Zadeklaruj zmienną String o nazwie imie.
+2.	Zadeklaruj zmienną int o nazwie wiek.
+3.	Zadeklaruj zmienną String o nazwie miasto.
+4.	Należy zadeklarować 3 zmienne.
+
+

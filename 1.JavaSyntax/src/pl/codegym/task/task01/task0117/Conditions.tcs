@@ -1,0 +1,14 @@
+taskKey="pl.codegym.task.task01.task0117"\n\nJeszcze kilka poprawek
+
+Zmień program tak, aby wyświetlał następujący tekst:
+Kodowanie w Javie
+Użyj zmiennych.
+
+
+Requirements:
+1.	Należy zadeklarować trzy zmienne.
+2.	Wszystkim zmiennym należy przypisać wartości niezwłocznie po zadeklarowaniu ich.
+3.	Nie można zmieniać komendy wyświetlającej na ekranie.
+4.	Program powinien wyświetlać &bdquo;Kodowanie w Javie&rdquo;.
+
+

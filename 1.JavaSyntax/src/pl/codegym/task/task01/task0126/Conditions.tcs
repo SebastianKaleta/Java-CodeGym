@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task01.task0126"\n\nNie chce Ci się? Mimo wszystko – zrób to.
+
+Napisz program, który wyświetla: „Jeżeli masz na to ochotę, wykonaj zadanie. Jeżeli nie masz na to ochoty, zrób to mimo wszystko” 16 razy.
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst.
+2.	Tekst powinien zaczynać się od &bdquo;Jeżeli masz na to ochotę&rdquo;.
+3.	Tekst powinien kończyć się na &bdquo;wszystko&rdquo;.
+4.	Tekst powinien składać się z 16 linii.
+5.	Wyświetlany tekst musi spełniać warunki zadania.
+
+

@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task01.task0107"\n\nKomentarze nie są niezbędne
+
+Odkomentuj jedną linię, aby program wyświetlał liczby 12 i 2 (najpierw 12, potem 2).
+
+
+Requirements:
+1.	Program powinien wyświetlać liczby 12 i 2.
+2.	Nie zmieniaj linii deklarujących zmienne.
+3.	Program musi mieć tylko dwie zmienne int.
+4.	Nie zmieniaj linii odpowiedzialnych za wyświetlanie na ekranie.
+5.	Musisz odkomentować jedną linię, natomiast pozostałe linie pozostaw niezmienione.
+
+

@@ -1,0 +1,18 @@
+taskKey="pl.codegym.task.task02.task0205"\n\nPodwyżka
+
+W metodzie public static void hakujWynagrodzenie(int a), zwiększ wypłatę o 1000 i wyświetl następujący komunikat:
+„Twoja pensja to: <a+1000> złotych na miesiąc.”
+gdzie <a+1000> to wynagrodzenie powiększone o 1000.
+
+Przykładowy wynik dla a = 8000:
+Twoja pensja to: 9000 złotych na miesiąc.
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst na ekranie.
+2.	Metoda main nie powinna wywoływać System.out.println ani System.out.print.
+3.	Metoda hakujWynagrodzenie nie powinna zwracać wyniku.
+4.	Metoda main powinna wywoływać metodę hakujWynagrodzenie tylko raz.
+5.	Metoda hakujWynagrodzenie powinna zwiększać parametr wejściowy o 1000 i wyświetlać na ekranie tekst zgodny z szablonem.
+
+

@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task01.task0103"\n\nMój młody przyjacielu
+
+Obecnie jest rok 3126. Mój przyjaciel urodził się 8 lat temu.
+Napisz program, który wyświetla rok urodzenia mojego przyjaciela.
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst.
+2.	Wyświetlany rok musi składać się z 4 cyfr.
+3.	Wyświetlany rok powinien zaczynać się od &bdquo;31&rdquo;.
+4.	Wyświetlany rok musi spełniać warunki zadania.
+
+

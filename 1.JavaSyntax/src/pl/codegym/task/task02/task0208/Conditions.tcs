@@ -1,0 +1,15 @@
+taskKey="pl.codegym.task.task02.task0208"\n\nJeden kot to za mało
+
+Utwórz obiekt Kot dwa razy.
+Zachowaj każdą instancję w oddzielnej zmiennej.
+Nazwy zmiennych muszą być różne.
+
+
+Requirements:
+1.	Program nie powinien wyświetlać tekstu na ekranie.
+2.	Metoda main powinna mieć tylko dwie zmienne Kot.
+3.	Zmiennym należy natychmiast przypisać wartości.
+4.	W klasie Kot nie powinno być żadnych zmiennych.
+5.	W klasie Kot nie powinno być żadnych metod.
+
+

@@ -1,0 +1,19 @@
+taskKey="pl.codegym.task.task01.task0102"\n\nMiłe słowo dla nauczyciela
+
+Napisz program, który wyświetli 5 razy „Baśka miała fajny kurs”. Za każdym razem w nowej linii.
+Przykładowy wynik:
+Baśka miała fajny kurs
+Baśka miała fajny kurs
+Baśka miała fajny kurs
+Baśka miała fajny kurs
+Baśka miała fajny kurs
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst.
+2.	Tekst powinien zaczynać się od &bdquo;Baśka&rdquo;.
+3.	Tekst powinien kończyć się na &bdquo;kurs&rdquo;.
+4.	Tekst powinien składać się z 5 linii.
+5.	Wyświetlany tekst musi spełniać warunki zadania.
+
+

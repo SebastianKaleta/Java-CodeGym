@@ -1,0 +1,18 @@
+taskKey="pl.codegym.task.task01.task0139"\n\nPocałuj mój błyszczący metalowy tylny siłownik
+
+- Amigo, chcesz zostać programistą?
+- Oczywiście!
+- W takim razie napisz szybko program wyświetlający zwrot „Witaj, świecie!”
+- Ale... to przecież takie zwyczajne!
+- Dokładnie. Amigo, widzę, że nadajemy na podobnych falach. Dobra, zamiast tego wyświetl inne zdanie, które my, roboty,
+powinnyśmy powtarzać w niepewnych czasach. Czyli: „Pocałuj mój błyszczący metalowy tylny siłownik!”
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst.
+2.	Tekst powinien zaczynać się od &bdquo;Pocałuj&rdquo;.
+3.	Tekst musi kończyć się wykrzyknikiem.
+4.	Tekst powinien mieć 47 znak&oacute;w, łącznie ze spacjami i wykrzyknikiem.
+5.	Wyświetlany tekst musi spełniać warunki zadania.
+
+

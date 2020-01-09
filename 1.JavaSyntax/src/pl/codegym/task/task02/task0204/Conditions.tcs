@@ -1,0 +1,20 @@
+taskKey="pl.codegym.task.task02.task0204"\n\nRelacje rodzinne
+
+W metodzie main utwórz obiekt Mezczyzna i zapisz referencję do niego w zmiennej mezczyzna.
+Utwórz również obiekt Kobieta i zapisz referencję do niego w zmiennej kobieta.
+
+Wskazówka: Aby utworzyć obiekt Kobieta i referencję do tego obiektu przypisać do zmiennej kobieta, użyj poniższej konstrukcji:
+TypZmiennej nazwaZmiennej = new TypTworzonegoObiektu();
+Zapisz referencję do wcześniej utworzonego obiektu Kobieta w mezczyzna.partnerka.
+Zapisz referencję do wcześniej utworzonego obiektu Mezczyzna w kobieta.partner (Wskazówka: kobieta.partner = mezczyzna).
+
+
+Requirements:
+1.	W metodzie main utw&oacute;rz obiekt Mezczyzna i zapisz referencję do niego w zmiennej mezczyzna.
+2.	W metodzie main utw&oacute;rz obiekt Kobieta i zapisz referencję do niego w zmiennej kobieta.
+3.	W metodzie main przypisz referencję do wcześniej utworzonego obiektu Kobieta w mezczyzna.partnerka.
+4.	W metodzie main przypisz referencję do wcześniej utworzonego obiektu Mezczyzna w kobieta.partner.
+5.	Klasa Mezczyzna musi mieć 3 zmienne.
+6.	Klasa Kobieta musi mieć 3 zmienne.
+
+

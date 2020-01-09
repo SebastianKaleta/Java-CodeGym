@@ -1,0 +1,15 @@
+taskKey="pl.codegym.task.task01.task0106"\n\nBłędy i funkcjonalności
+
+Napisz program, który wyświetla „To nie jest błąd - to jest funkcjonalność.”.
+Przykładowy wynik:
+To nie jest błąd - to jest funkcjonalność.
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst.
+2.	Tekst powinien zaczynać się od &bdquo;To nie jest błąd&rdquo;.
+3.	Tekst musi kończyć się kropką.
+4.	Tekst powinien mieć 42 znaki, łącznie ze spacjami i znakami interpunkcyjnymi.
+5.	Wyświetlany tekst musi spełniać warunki zadania.
+
+

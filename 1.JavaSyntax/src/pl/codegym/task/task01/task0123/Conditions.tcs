@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task01.task0123"\n\nNie potrzebujemy dodatkowych linii
+
+Zakomentuj zmienne, które nie są używane. Program musi się kompilować.
+
+
+Requirements:
+1.	Nie zmieniaj typ&oacute;w zmiennych.
+2.	Nie zmieniaj wartości zmiennych.
+3.	Nie dodawaj do programu nowych linii ani nie usuwaj tych już istniejących.
+4.	Musisz zakomentować nieużywane zmienne.
+5.	Wynik działania programu nie powinien się zmienić.
+
+

@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task02.task0201"\n\nZaimplementuj metodę print
+
+Zaimplementuj metodę print. Metoda powinna wyświetlać przekazany ciąg 4 razy. Za każdym razem w nowej linii.
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst na ekranie.
+2.	Metoda main nie powinna wywoływać System.out.println ani System.out.print.
+3.	Metoda print powinna wyświetlać tekst na ekranie.
+4.	Metoda main powinna wywoływać metodę print klasy Solution dokładnie trzy razy.
+5.	Metoda print powinna wyświetlić ciąg 4 razy. Za każdym razem w nowej linii.
+
+

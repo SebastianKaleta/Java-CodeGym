@@ -1,0 +1,16 @@
+taskKey="pl.codegym.task.task02.task0214"\n\nMniejsza z dwóch liczb
+
+Napisz funkcję, która zwraca mniejszą z dwóch liczb.
+
+Wskazówka:
+Musisz napisać ciało istniejącej funkcji min.
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst na ekranie.
+2.	Metoda min nie powinna wyświetlać tekstu na ekranie.
+3.	Metoda main powinna wywoływać metodę min trzy razy.
+4.	Metoda main powinna wyświetlać wynik działania metody min. Za każdym razem w nowej linii.
+5.	Metoda min musi zwracać mniejszą z liczb a i b.
+
+

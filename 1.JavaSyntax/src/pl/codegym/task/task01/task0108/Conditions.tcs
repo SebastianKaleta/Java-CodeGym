@@ -1,0 +1,14 @@
+taskKey="pl.codegym.task.task01.task0108"\n\n2 + 3 = 5
+
+Zakomentuj niektóre linie, aby wyświetlić na ekranie:
+2 plus 3 jest równe 5
+Uwaga: Nie zakomentuj linii z deklaracjami zmiennych.
+
+
+Requirements:
+1.	Program powinien wyświetlać na ekranie: &bdquo;2 plus 3 jest r&oacute;wne 5&rdquo;.
+2.	Nie zmieniaj linii deklarującej zmienne.
+3.	Musisz zakomentować co najmniej jedną linię.
+4.	Nie zmieniaj ani nie dodawaj poleceń odpowiedzialnych za wyświetlanie. Możesz je zakomentować.
+
+

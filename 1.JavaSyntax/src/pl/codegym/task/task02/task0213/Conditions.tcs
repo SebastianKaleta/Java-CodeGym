@@ -1,0 +1,14 @@
+taskKey="pl.codegym.task.task02.task0213"\n\nZwierzęta potrzebują ludzi
+
+Utwórz obiekty Kot, Pies, Ryba i Kobieta.
+Przypisz właściciela do każdego zwierzęcia.
+
+
+Requirements:
+1.	Program nie powinien wyświetlać tekstu na ekranie.
+2.	W metodzie main utw&oacute;rz obiekty Kot, Pies, Ryba i Kobieta, a referencje do nich zachowaj w zmiennych.
+3.	W metodzie main ustaw obiekt Kobieta jako właściciela każdego zwierzęcia.
+4.	Klasy Kot, Pies i Ryba muszą mieć jedną zmienną Kobieta o nazwie wlasciciel.
+5.	Klasa Kobieta nie może mieć zmiennych.
+
+

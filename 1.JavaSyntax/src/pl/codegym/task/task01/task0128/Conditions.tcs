@@ -1,0 +1,12 @@
+taskKey="pl.codegym.task.task01.task0128"\n\nProste jak 2+2
+
+Napisz program, który wywołuje metodę suma z argumentami 2 i 2.
+
+
+Requirements:
+1.	Program powinien wyświetlać sumę liczb 2 i 2.
+2.	Metoda main powinna wywoływać metodę suma z argumentami 2 i 2.
+3.	Metoda main nie powinna wywoływać metody wyświetlania na ekranie.
+4.	Nie zmieniaj metody suma.
+
+

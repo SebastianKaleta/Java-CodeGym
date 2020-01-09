@@ -1,0 +1,19 @@
+taskKey="pl.codegym.task.task02.task0217"\n\nNajmniejsza z czterech liczb
+
+Napisz funkcję, która wybiera najmniejszą z czterech liczb.
+Funkcja min(a, b, c, d) powinna używać (wywoływać) funkcji min(a, b)
+
+Wskazówka:
+Musisz napisać ciało dwóch istniejących funkcji min.
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst na ekranie.
+2.	Metody min nie powinny wyświetlać tekstu na ekranie.
+3.	Metoda main powinna wywoływać min(a, b) i min(a, b, c, d).
+4.	Metoda main powinna wyświetlać wynik działania metod min. Za każdym razem w nowej linii.
+5.	Metoda min(a, b) musi zwracać mniejszą z liczb a i b.
+6.	Metoda min(a, b, c, d) musi używać metody min(a, b).
+7.	Metoda min(a, b, c, d) musi zwracać najmniejszą z liczb a, b, c i d.
+
+

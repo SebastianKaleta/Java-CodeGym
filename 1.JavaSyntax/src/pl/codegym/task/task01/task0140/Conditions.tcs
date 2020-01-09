@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task01.task0140"\n\nWyświetl kwadrat liczby
+
+Dostępna jest zmienna liczba.
+Napisz program, który wyświetla kwadrat tej zmiennej: (liczba * liczba).
+
+
+Requirements:
+1.	Nie modyfikuj zmiennej liczba. Możesz zmieniać tylko jej wartość.
+2.	Program powinien wyświetlać tekst.
+3.	Wyświetlony tekst musi być liczbą.
+4.	Wyświetlony tekst musi być kwadratem zmiennej liczba.
+
+

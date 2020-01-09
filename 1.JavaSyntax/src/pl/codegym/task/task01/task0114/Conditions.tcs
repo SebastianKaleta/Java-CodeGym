@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task01.task0114"\n\nCodeGym. Naucz się raz - używaj zawsze
+
+Napisz program, który wyświetla: „CodeGym. Naucz się raz - używaj zawsze” 10 razy.
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst.
+2.	Tekst powinien zaczynać się od &bdquo;CodeGym&rdquo;.
+3.	Tekst powinien kończyć się na &bdquo;używaj zawsze&rdquo;.
+4.	Tekst powinien składać się z 10 linii.
+5.	Wyświetlany tekst musi spełniać warunki zadania.
+
+

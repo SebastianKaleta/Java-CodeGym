@@ -1,0 +1,15 @@
+taskKey="pl.codegym.task.task01.task0137"\n\nZadziała tylko 20
+
+W metodzie main umieść odpowiednio znaki plus i minus tak, aby zmienna wynik była równa 20.
+Znaki można wstawiać tylko w linii, w której deklarowana jest zmienna wynik.
+Nie zmieniaj kolejności zmiennych w tej linii.
+Każda zmienna musi być poprzedzona znakiem plus lub minus.
+
+
+Requirements:
+1.	Wartości zmiennych: Nie zmieniaj a, b, c oraz d.
+2.	W linii, w kt&oacute;rej zadeklarowana jest zmienna wynik, każda ze zmiennych (a, b, c oraz d) musi być poprzedzona znakiem plus lub minus.
+3.	Program powinien wyświetlać na ekranie liczbę 20.
+4.	Znaki plus i minus muszą zostać poprawnie umieszczone.
+
+

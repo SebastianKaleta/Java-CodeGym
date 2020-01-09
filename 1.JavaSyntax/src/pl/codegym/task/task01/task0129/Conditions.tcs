@@ -1,0 +1,14 @@
+taskKey="pl.codegym.task.task01.task0129"\n\nOblicz obwód koła
+
+Wyświetl obwód koła, który jest obliczany za pomocą wzoru: C = 2 * pi * promien.
+Wynik to liczba ułamkowa (double).
+Użyj 3.14 jako wartości pi.
+
+
+Requirements:
+1.	W metodzie printObwodKola należy wyświetlić obw&oacute;d koła, obliczany za pomocą wzoru: 2 * pi * promien.
+2.	Metoda main powinna wywoływać metodę printObwodKola z liczbą 5 jako argumentem.
+3.	Metoda main nie powinna wywoływać metody wyświetlania na ekranie.
+4.	Program powinien wyświetlać obw&oacute;d koła o promieniu 5.
+
+

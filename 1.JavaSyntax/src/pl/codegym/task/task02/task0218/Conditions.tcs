@@ -1,0 +1,14 @@
+taskKey="pl.codegym.task.task02.task0218"\n\nPowtórka jest matką nauki
+
+Zaimplementuj metodę o nazwie print3. Metoda powinna wyświetlać przekazany ciąg 3 razy.
+Za każdym razem w nowej linii.
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst na ekranie.
+2.	Metoda main nie powinna wywoływać System.out.println ani System.out.print.
+3.	Metoda print3 powinna wyświetlać tekst na ekranie.
+4.	Metoda main powinna wywoływać metodę print3 tylko raz.
+5.	Metoda print3 powinna wyświetlić dany ciąg 3 razy. Za każdym razem w nowej linii.
+
+

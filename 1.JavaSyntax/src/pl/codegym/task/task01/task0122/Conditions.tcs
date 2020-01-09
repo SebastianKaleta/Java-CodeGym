@@ -1,0 +1,15 @@
+taskKey="pl.codegym.task.task01.task0122"\n\nZnajdowanie błędów
+
+Napraw błąd w programie. Program powinien wyświetlać liczbę 100.
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst.
+2.	Należy zadeklarować trzy zmienne.
+3.	Nie zmieniaj typ&oacute;w zmiennych.
+4.	Nie zmieniaj wartości zmiennych.
+5.	Nie dodawaj do programu nowych linii ani nie usuwaj tych już istniejących.
+6.	Dokonaj możliwie najmniej zmian w komendzie wyświetlania na ekranie.
+7.	Wyświetlany tekst musi spełniać warunki zadania.
+
+

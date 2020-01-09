@@ -1,0 +1,14 @@
+taskKey="pl.codegym.task.task01.task0109"\n\nUroczyście publikujemy i deklarujemy te zmienne...
+
+Zadeklaruj zmienne int o nazwach a i b.
+W tej samej linii przypisz im od razu różne wartości.
+Wartości mogą być dowolnymi liczbami całkowitymi.
+
+
+Requirements:
+1.	Zadeklaruj dwie zmienne int.
+2.	Zmienne muszą mieć nazwy a i b.
+3.	Zmiennym należy natychmiast przypisać wartości.
+4.	Zmienne a i b muszą mieć r&oacute;żne wartości.
+
+

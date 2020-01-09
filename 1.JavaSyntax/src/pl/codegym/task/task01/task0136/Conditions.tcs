@@ -1,0 +1,22 @@
+taskKey="pl.codegym.task.task01.task0136"\n\nNawet na Księżyc!
+
+– Amigo, czy wiedziałeś, że grawitacja na Księżycu to około 17% grawitacji na Ziemi?
+– Nie.
+– Ja też nie. Teraz będziemy często korzystać z tej informacji. Aby uniknąć ręcznego obliczania tego za każdym razem,
+zaimplementuj metodę getWaga(int), która przyjmuje ciężar osoby na Ziemi (w niutonach) i zwraca ciężar tej osoby na Księżycu (w niutonach).
+Metoda powinna zwracać double.
+
+Przeanalizuj ten przykład:
+Metoda getWaga jest wywoływana z argumentem 888.
+
+Przykładowy wynik:
+150.96
+
+
+Requirements:
+1.	Metoda getWaga(int) musi być publiczna i statyczna.
+2.	Metoda getWaga musi zwracać double.
+3.	Metoda getWaga nie powinna nic wyświetlać.
+4.	Metoda getWaga powinna poprawnie konwertować ciężar na Ziemi, podany w niutonach, na ciężar na Księżycu i zwracać tę wartość.
+
+

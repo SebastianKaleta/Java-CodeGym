@@ -1,0 +1,21 @@
+taskKey="pl.codegym.task.task02.task0207"\n\nCzęść kalkulatora
+
+W metodzie main zadeklaruj dwie zmienne typu int: a i b.
+Przypisz im dowolne wartości.
+Wyświetl na ekranie ich sumę i iloczyn.
+Każdą wartość wyświetl w nowej linii.
+
+Przykładowy wynik dla a = 5, b = 7:
+12
+35
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst na ekranie.
+2.	Program powinien mieć dwie zmienne int: a i b.
+3.	Zmiennym należy natychmiast przypisać wartości.
+4.	Metoda main powinna wyświetlać sumę zmiennych a i b.
+5.	Metoda main powinna wyświetlać iloczyn zmiennych a i b.
+6.	Każda wartość powinna być wyświetlona w nowej linii.
+
+

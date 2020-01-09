@@ -1,0 +1,16 @@
+taskKey="pl.codegym.task.task02.task0209"\n\nMax, Bella i Azor
+
+Utwórz 3 obiekty Pies.
+Zachowaj każdą instancję w oddzielnej zmiennej.
+Nadaj im imiona: „Max”, „Bella” i „Azor”.
+
+
+Requirements:
+1.	Program nie powinien wyświetlać tekstu na ekranie.
+2.	Metoda main powinna mieć tylko trzy zmienne Pies.
+3.	Zmiennym należy natychmiast przypisać wartości.
+4.	Każdy Pies musi mieć przypisane imię.
+5.	Klasa Pies musi mieć jedną zmienną o nazwie imie.
+6.	Klasa Pies nie powinna zawierać metod.
+
+

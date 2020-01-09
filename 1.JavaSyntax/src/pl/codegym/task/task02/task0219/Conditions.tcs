@@ -1,0 +1,14 @@
+taskKey="pl.codegym.task.task02.task0219"\n\nWyświetl trzy razy
+
+Zaimplementuj metodę o nazwie print3. Metoda powinna wyświetlać przekazany ciąg (wyraz) trzy razy, ale w tej samej linii.
+Wyrazy muszą być oddzielone spacją i nie powinny się łączyć.
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst na ekranie.
+2.	Metoda main nie powinna wywoływać System.out.println ani System.out.print.
+3.	Metoda print3 powinna wyświetlać tekst na ekranie.
+4.	Metoda main powinna wywoływać metodę print3 tylko dwa razy.
+5.	Metoda print3 powinna wyświetlać przekazany ciąg (wyraz) trzy razy, ale w tej samej linii.
+
+

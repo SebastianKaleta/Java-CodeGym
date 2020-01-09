@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task01.task0127"\n\nKwadrat liczby
+
+Napisz program, który wyświetla na ekranie kwadrat liczby 5.
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst.
+2.	Metoda main powinna wywoływać metodę kwadrat z argumentem 5.
+3.	Metoda main powinna wyświetlać wynik działania metody kwadrat.
+4.	Nie zmieniaj metody kwadrat.
+5.	Wyświetlany tekst musi spełniać warunki zadania.
+
+

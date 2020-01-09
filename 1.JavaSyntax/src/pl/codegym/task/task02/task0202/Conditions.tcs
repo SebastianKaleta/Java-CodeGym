@@ -1,0 +1,18 @@
+taskKey="pl.codegym.task.task02.task0202"\n\nSkąd pochodzi Osoba?
+
+Zadeklaruj w klasie Osoba następujące zmienne: String imie, int wiek, int waga, int pieniadze.
+W metodzie main utwórz obiekt Osoba i umieść referencję do niego w zmiennej osoba.
+
+Wskazówka: Aby utworzyć obiekt Osoba i referencję do tego obiektu przypisać do zmiennej osoba, użyj poniższej konstrukcji:
+TypZmiennej nazwaZmiennej = new TypTworzonegoObiektu();
+
+
+Requirements:
+1.	W klasie Osoba zadeklaruj zmienną String o nazwie imie.
+2.	W klasie Osoba zadeklaruj zmienną int o nazwie wiek.
+3.	W klasie Osoba zadeklaruj zmienną int o nazwie waga.
+4.	W klasie Osoba zadeklaruj zmienną int o nazwie pieniadze.
+5.	W metodzie main utw&oacute;rz obiekt Osoba i referencję do niego przypisz od razu do zmiennej osoba.
+6.	Należy zadeklarować pięć zmiennych.
+
+

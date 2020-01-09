@@ -1,0 +1,15 @@
+taskKey="pl.codegym.task.task01.task0111"\n\nJedna zmienna to za mało
+
+Zadeklaruj zmienne typu int o nazwach a i b oraz zmienną String o nazwie s.
+W linii, w której deklarujemy zmienne, od razu przypisz im dowolne różne wartości.
+
+
+Requirements:
+1.	Zadeklaruj dwie zmienne int.
+2.	Zadeklaruj jedną zmienną String.
+3.	Zmienne int muszą mieć nazwy a i b.
+4.	Zmienna String musi mieć nazwę s.
+5.	Zmiennym należy natychmiast przypisać wartości.
+6.	Zmienne a i b muszą mieć r&oacute;żne wartości.
+
+

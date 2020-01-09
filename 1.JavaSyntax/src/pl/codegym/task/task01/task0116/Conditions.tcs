@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task01.task0116"\n\nZmieńmy kod
+
+Zmień program tak, aby zmienna imie miała wartość „Amigo”.
+
+
+Requirements:
+1.	Zmiennej imie należy przypisać wartość niezwłocznie po zadeklarowaniu jej.
+2.	Należy zadeklarować dwie zmienne.
+3.	Nie należy zmieniać wartości zmiennej tekst.
+4.	Nie można zmieniać komendy wyświetlającej na ekranie.
+5.	Program powinien wyświetlać &bdquo;Cześć, Amigo!&rdquo;.
+
+

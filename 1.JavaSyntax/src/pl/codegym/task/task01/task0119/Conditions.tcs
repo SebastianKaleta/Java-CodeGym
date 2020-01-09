@@ -1,0 +1,12 @@
+taskKey="pl.codegym.task.task01.task0119"\n\nZnowu mam 15 lat!
+
+Zmień program tak, aby zmienna wiek miała wartość 15.
+
+
+Requirements:
+1.	Należy zadeklarować cztery zmienne.
+2.	Zmienna wiek musi być typu int.
+3.	Wszystkim zmiennym należy przypisać wartości niezwłocznie po zadeklarowaniu ich.
+4.	Wartość przypisana do zmiennej wiek musi wynosić 15.
+
+

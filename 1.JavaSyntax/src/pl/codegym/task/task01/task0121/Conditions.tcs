@@ -1,0 +1,22 @@
+taskKey="pl.codegym.task.task01.task0121"\n\nUmowa
+
+Wyświetl tekst nowej umowy:
+Nazywam się Amigo.
+
+Zgadzam się na wynagrodzenie w wysokości 5000 zł/miesiąc w pierwszym roku.
+Zgadzam się na wynagrodzenie w wysokości 5500 zł/miesiąc w drugim roku.
+Zgadzam się na wynagrodzenie w wysokości 7000 zł/miesiąc w trzecim roku.
+Zgadzam się na wynagrodzenie w wysokości 8000 zł/miesiąc w czwartym roku.
+Zgadzam się na wynagrodzenie w wysokości 10000 zł/miesiąc w piątym roku.
+
+Pocałuj mój błyszczący metalowy tylny siłownik!
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst.
+2.	Tekst powinien zaczynać się od &bdquo;Nazywam się Amigo&rdquo;.
+3.	Tekst powinien kończyć się na &bdquo;metalowy tylny siłownik!&rdquo;.
+4.	Tekst powinien składać się z 9 linii (puste linie to także linie).
+5.	Wyświetlany tekst musi spełniać warunki zadania.
+
+

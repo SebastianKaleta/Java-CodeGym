@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task01.task0135"\n\nWybierz zdrowe jedzenie! Wybierz owoce!
+
+Wyświetl zmienne, których wartościami są nazwy owoców. Każdą zmienną wyświetl w nowej linii.
+
+
+Requirements:
+1.	Program powinien wyświetlać tekst.
+2.	Nie zmieniaj linii deklarujących zmienne.
+3.	Wyświetlony tekst powinien składać się z 2 linii.
+4.	Program powinien wyświetlać zmienne, kt&oacute;rych wartości są nazwami owoc&oacute;w.
+5.	Program nie powinien wyświetlać zmiennych, kt&oacute;rych wartości nie są nazwami owoc&oacute;w.
+
+

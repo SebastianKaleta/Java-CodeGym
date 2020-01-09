@@ -1,0 +1,15 @@
+taskKey="pl.codegym.task.task01.task0110"\n\nZmienna na naszym ekranie
+
+Zadeklaruj zmienną String o nazwie imie.
+W linii, w której deklarujemy zmienną, przypisz jej natychmiast jakąś wartość.
+Wyświetl zmienną imie na ekranie.
+
+
+Requirements:
+1.	W metodzie main zadeklaruj zmienną typu String.
+2.	Zmienna musi nazywać się imie.
+3.	Zmiennej należy natychmiast przypisać wartość.
+4.	Program powinien wyświetlać tekst na ekranie.
+5.	Tekst wyjściowy powinien być wartością zmiennej.
+
+
