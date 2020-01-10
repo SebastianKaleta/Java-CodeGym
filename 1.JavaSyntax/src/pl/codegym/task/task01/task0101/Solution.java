@@ -7,5 +7,6 @@ Tak sobie myślę, że bycie programistą jest cool
 public class Solution {
     public static void main(String[] args) {
         //tutaj wpisz swój kod
+        System.out.println("Myślę, że bycie programistą jest cool");
     }
 }

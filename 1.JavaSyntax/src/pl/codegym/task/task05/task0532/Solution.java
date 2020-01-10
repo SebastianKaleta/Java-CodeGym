@@ -9,7 +9,7 @@ Zadanie z algorytmami
 public class Solution {
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        int maksimum = ;
+        int maksimum = Integer.MAX_VALUE;
 
         //tutaj wpisz swój kod
 

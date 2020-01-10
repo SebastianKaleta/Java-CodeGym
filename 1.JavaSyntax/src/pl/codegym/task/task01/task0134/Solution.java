@@ -11,5 +11,6 @@ public class Solution {
 
     public static long getObjetosc(int a, int b, int c) {
         //tutaj wpisz swój kod
+    return 0;
     }
 }

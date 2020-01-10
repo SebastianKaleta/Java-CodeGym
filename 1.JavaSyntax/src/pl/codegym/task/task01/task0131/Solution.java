@@ -11,5 +11,6 @@ public class Solution {
 
     public static int getStopyZCali(int cale) {
         //tutaj wpisz swój kod
+        return cale*12;
     }
 }

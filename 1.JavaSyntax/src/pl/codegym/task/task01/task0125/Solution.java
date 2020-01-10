@@ -7,11 +7,11 @@ Wielkie porządki
 public class Solution {
     public static void main(String[] args) {
         String s = "15";
-        a = 5;
+       int a = 5;
         int z = 18;
         int d = 18;
-        c = a + d;
-        b = " jest lepsze niż ";
+        int c = a + d;
+        String b = " jest lepsze niż ";
 
         System.out.println(a + b + c);
     }

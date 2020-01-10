@@ -11,5 +11,6 @@ public class Solution {
 
     public static int sumaCyfrLiczby(int liczba) {
         //tutaj wpisz swój kod
+        return 0;
     }
 }
