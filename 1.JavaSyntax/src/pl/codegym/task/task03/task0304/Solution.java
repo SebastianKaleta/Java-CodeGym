@@ -7,6 +7,7 @@ Zadanie z procentami
 public class Solution {
     public static double dodajDziesiecProcent(int i) {
         //tutaj wpisz swój kod
+        return i*0.10;
     }
 
     public static void main(String[] args) {

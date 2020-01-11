@@ -7,6 +7,7 @@ Kwadrat liczby
 public class Solution {
     public static void main(String[] args) {
         //tutaj wpisz swój kod
+        System.out.println(kwadrat(5));
     }
 
     public static int kwadrat(int a) {

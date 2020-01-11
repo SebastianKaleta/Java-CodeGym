@@ -10,7 +10,8 @@ public class Solution {
         String owsianka = "Owsianka";
         String kielbasa = "Kiełbasa";
         String brzoskwinia = "Brzoskwinia";
-
+        System.out.println(jablko);
+        System.out.println(brzoskwinia);
         //tutaj wpisz swój kod
     }
 }

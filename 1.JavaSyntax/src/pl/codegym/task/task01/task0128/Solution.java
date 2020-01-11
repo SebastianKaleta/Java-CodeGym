@@ -7,6 +7,7 @@ Proste jak 2+2
 public class Solution {
     public static void main(String[] args) {
         //tutaj wpisz swój kod
+        suma(2,2);
     }
 
     public static void suma(int a, int b) {

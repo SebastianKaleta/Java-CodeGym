@@ -7,6 +7,13 @@ Czemu Patrzysz, Żabko Zielona...
 public class Solution {
     public static void main(String[] args) {
         //tutaj wpisz swój kod
+        Czerwony czerwony = new Czerwony();
+        Pomaranczowy pomaranczowy=new Pomaranczowy();
+        Zolty zolty=new Zolty();
+        Zielony zielony= new Zielony();
+        Niebieski niebieski=new Niebieski();
+        Granatowy granatowy= new Granatowy();
+        Fioletowy fioletowy = new Fioletowy();
     }
 
     public static class Czerwony {

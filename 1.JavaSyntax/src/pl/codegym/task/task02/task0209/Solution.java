@@ -7,6 +7,10 @@ public class Solution {
     public static void main(String[] args) {
         Pies pies1 = new Pies();
         pies1.imie = "Max";
+        Pies pies2 = new Pies();
+        pies1.imie = "Bella";
+        Pies pies3 = new Pies();
+        pies1.imie = "Azor";
 
         //tutaj wpisz swój kod
     }

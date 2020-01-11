@@ -6,7 +6,8 @@ Nie myśl o sekundach...
 
 public class Solution {
     public static void main(String[] args) {
-        int sekundyPo15 = 0;
-        System.out.println(sekundyPo15);
+        int sekundyPo15=0;
+
+        System.out.println(sekundyPo15+30*60);
     }
 }

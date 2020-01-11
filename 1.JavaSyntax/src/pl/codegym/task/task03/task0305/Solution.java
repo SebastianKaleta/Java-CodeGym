@@ -7,5 +7,6 @@ Czerwona zaraza
 public class Solution {
     public static void main(String[] args) {
         //tutaj wpisz swój kod
+        System.out.println("KWIECIEN 29 1994");
     }
 }

@@ -6,7 +6,7 @@ Zmieńmy kod
 
 public class Solution {
     public static void main(String[] args) {
-        String imie = "Baśka";
+        String imie = "Amigo";
         String tekst = "Cześć, " + imie + "!";
         System.out.println(tekst);
     }

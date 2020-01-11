@@ -12,7 +12,7 @@ public class Solution {
 
     public static void main(String[] args) {
 
-        int wynik = + a + b + c + d;
+        int wynik =  -a + b - c + d;
 
         System.out.println(wynik);
     }

@@ -6,6 +6,10 @@ Wyświetl trzy razy
 public class Solution {
     public static void print3(String s) {
         //tutaj wpisz swój kod
+        for (int i = 0; i <3 ; i++) {
+            System.out.print(s+" ");
+        }
+        System.out.println("");
 
     }
 

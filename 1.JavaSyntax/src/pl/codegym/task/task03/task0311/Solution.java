@@ -11,5 +11,6 @@ public class Solution {
 
     public static void piszDoKonsoli(String s) {
         //tutaj wpisz swój kod
+        System.out.println("printing: "+s);
     }
 }

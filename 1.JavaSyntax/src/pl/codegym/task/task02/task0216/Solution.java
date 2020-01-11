@@ -6,6 +6,15 @@ Najmniejsza z trzech liczb
 public class Solution {
     public static int min(int a, int b, int c) {
         //tutaj wpisz swój kod
+        if (a < b && a < c) {
+            return a;
+        } else if (b < a && b < c) {
+            return b;
+        } else if (c < a && c < b) {
+            return c;
+        }else {
+            return a;
+        }
     }
 
     public static void main(String[] args) throws Exception {

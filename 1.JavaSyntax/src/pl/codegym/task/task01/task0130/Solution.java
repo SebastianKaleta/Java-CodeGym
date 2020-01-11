@@ -11,7 +11,8 @@ public class Solution {
 
     public static double konwertujCelsjuszaNaFahrenheita(int celsjusz) {
         //tutaj wpisz swój kod
+        double farenheit = (celsjusz *1.8)+32 ;
 
-        return 0;
+        return farenheit;
     }
 }

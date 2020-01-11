@@ -6,6 +6,10 @@ Relacje rodzinne
 public class Solution {
     public static void main(String[] args) {
         //tutaj wpisz swój kod
+        Mezczyzna mezczyzna = new Mezczyzna();
+        Kobieta kobieta = new Kobieta();
+        mezczyzna.partnerka=kobieta;
+        kobieta.partner=mezczyzna;
     }
 
     public static class Mezczyzna {

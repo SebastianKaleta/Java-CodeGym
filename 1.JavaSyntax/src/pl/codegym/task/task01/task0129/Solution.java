@@ -11,5 +11,6 @@ public class Solution {
 
     public static void printObwodKola(int promien) {
         //tutaj wpisz swój kod
+        double suma = 2* 3.14*promien;
     }
 }

@@ -11,6 +11,7 @@ public class Solution {
 
     public static long getObjetosc(int a, int b, int c) {
         //tutaj wpisz swój kod
-    return 0;
+        long obj=a*b*c*1000;
+    return obj;
     }
 }

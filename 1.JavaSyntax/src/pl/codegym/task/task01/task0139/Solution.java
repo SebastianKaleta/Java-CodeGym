@@ -7,5 +7,6 @@ Pocałuj mój błyszczący metalowy tylny siłownik
 public class Solution {
     public static void main(String[] args) {
         //tutaj wpisz swój kod
+        System.out.println("Pocałuj mój błyszczący metalowy tylny siłownik!");
     }
 }

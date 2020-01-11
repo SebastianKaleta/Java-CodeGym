@@ -6,12 +6,17 @@ Najmniejsza z czterech liczb
 public class Solution {
     public static int min(int a, int b, int c, int d) {
         //tutaj wpisz swój kod
+        if(a<b&&a<c&&a<d) return a;
+        else if(b<a&&b<c&&b<d) return b;
+        else if(c<a&&c<b&&c<d) return c;
+        else return d;
 
     }
 
     public static int min(int a, int b) {
         //tutaj wpisz swój kod
-
+        if(a<b) return a;
+        else return b;
     }
 
     public static void main(String[] args) throws Exception {

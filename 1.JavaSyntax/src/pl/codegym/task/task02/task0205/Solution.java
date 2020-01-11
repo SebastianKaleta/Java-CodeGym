@@ -10,5 +10,7 @@ public class Solution {
 
     public static void hakujWynagrodzenie(int a) {
         //tutaj wpisz swój kod
+        a=a+1000;
+        System.out.println("Twoja pensja to:"+ a+" złotych na miesiąc.");
     }
 }

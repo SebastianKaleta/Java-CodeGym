@@ -13,5 +13,6 @@ public class Solution {
 
     public static void dziel(int a, int b) {
         //tutaj wpisz swój kod
+        System.out.println(a/b);
     }
 }

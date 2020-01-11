@@ -6,6 +6,8 @@ Mniejsza z dwóch liczb
 public class Solution {
     public static int min(int a, int b) {
         //tutaj wpisz swój kod
+        if(a<b) return a;
+        else return b;
     }
 
     public static void main(String[] args) throws Exception {

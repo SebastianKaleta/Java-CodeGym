@@ -6,11 +6,11 @@ Więcej konwersji
 
 public class Solution {
     public static void main(String[] args) {
-        System.out.println(getStopyZCali(28));
+        System.out.println(getStopyZCali(243));
     }
 
     public static int getStopyZCali(int cale) {
         //tutaj wpisz swój kod
-        return cale*12;
+        return cale/12;
     }
 }

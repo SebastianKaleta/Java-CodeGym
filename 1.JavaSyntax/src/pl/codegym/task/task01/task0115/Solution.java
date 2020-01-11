@@ -10,11 +10,11 @@ public class Solution {
 //        System.out.println("Świąt");
 //        System.out.println("Wesołego Nowego");
 //        System.out.print("weekendu");
-//        System.out.print("Szczęśliwego Nowego");
+        System.out.print("Szczęśliwego Nowego");
 //        System.out.print("weekendu");
 //        System.out.println(s);
 //        System.out.print("Wesołego Nowego!");
-//        System.out.print(" ");
-//        System.out.println("Roku");
+        System.out.print(" ");
+        System.out.println("Roku");
     }
 }

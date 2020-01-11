@@ -11,6 +11,7 @@ public class Solution {
 
     public static double getWaga(int wagaNaZiemi) {
         // tutaj wpisz swój kod
-        return wagaNaZiemi;
+        double wagaKsiezyc=wagaNaZiemi*0.17;
+        return wagaKsiezyc;
     }
 }
