@@ -13,5 +13,13 @@ public class Solution {
 
     public static void porownaj(int a) {
         //tutaj wpisz swój kod
+        if(a<5){
+            System.out.println("Liczba jest mniejsza niż 5");
+        }else if(a>5){
+            System.out.println("Liczba jest większa niż 5");
+        }else{
+            System.out.println("Liczba jest równa 5");
+
+        }
     }
 }

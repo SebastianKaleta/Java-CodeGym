@@ -8,9 +8,11 @@ public class Solution {
     public static void main(String[] args) {
         Kot kot1 = new Kot();
         //tutaj wpisz swój kod
+        kot1.licznik++;
 
         Kot kot2 = new Kot();
         //tutaj wpisz swój kod
+        kot2.licznik++;
 
         System.out.println("Liczba kotów to " + Kot.licznik);
     }

@@ -9,9 +9,12 @@ public class Kot {
 
     public static void setLicznikKotow(int licznikKotow) {
         //tutaj wpisz swój kod
+        Kot.licznikKotow++;
     }
 
     public static void main(String[] args) {
-
+        System.out.println(licznikKotow);
+        setLicznikKotow(licznikKotow);
+        System.out.println(licznikKotow);
     }
 }

@@ -12,6 +12,13 @@ public class Solution {
 
     public static void wyswietlNajblizszaDziesiatce(int a, int b) {
         // tutaj wpisz swój kod
+        if(abs(a-10)==abs(b-10)){
+            System.out.println(a);
+        }if(abs(a-10)<abs(b-10)){
+            System.out.println(a);
+        }else{
+            System.out.println(b);
+        }
 
     }
 

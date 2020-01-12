@@ -9,6 +9,7 @@ public class Kot {
 
     public void setImie(String imie) {
         //tutaj wpisz swój kod
+        this.imie=imie;
     }
 
     public static void main(String[] args) {

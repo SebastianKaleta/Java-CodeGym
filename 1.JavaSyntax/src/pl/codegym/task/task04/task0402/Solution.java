@@ -17,6 +17,7 @@ public class Solution {
 
         public static void podniesCene(int cenaJablek) {
             //tutaj wpisz swój kod
+            Jablko.cenaJablek+=cenaJablek;
         }
     }
 }

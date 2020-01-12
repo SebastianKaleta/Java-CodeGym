@@ -9,11 +9,13 @@ public class Kot {
 
     public void setImie(String imie, String nazwisko) {
         String imieInazwisko = imie + " " + nazwisko;
-
+        this.imieInazwisko=imieInazwisko;
         //tutaj wpisz swój kod
     }
 
     public static void main(String[] args) {
-
+        Kot kot= new Kot();
+        kot.setImie("Maga", "Waga");
+        System.out.println(kot.imieInazwisko);
     }
 }
