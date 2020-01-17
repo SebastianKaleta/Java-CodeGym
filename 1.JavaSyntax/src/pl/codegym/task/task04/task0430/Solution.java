@@ -9,6 +9,11 @@ import java.io.*;
 public class Solution {
     public static void main(String[] args) throws Exception {
         //tutaj wpisz swój kod
+        int i=0;
+        while (i<10){
+            i++;
+            System.out.println(i);
+        }
 
     }
 }
