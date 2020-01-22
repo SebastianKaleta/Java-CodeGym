@@ -26,6 +26,7 @@ public class Kot {
         Kot kot2 = new Kot();
         kot1.sila=3;
         kot2.sila=4;
-        kot1.walka(kot2);
+        System.out.println(kot1.walka(kot2));
+        System.out.println(kot2.walka(kot1));
     }
 }
