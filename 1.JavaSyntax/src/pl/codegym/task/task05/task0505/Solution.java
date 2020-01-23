@@ -7,6 +7,13 @@ Kocia jatka
 public class Solution {
     public static void main(String[] args) {
         //tutaj wpisz swój kod
+        Kot kot1 = new Kot("Kcur", 7, 12, 4);
+        Kot kot2 = new Kot("Alfons", 3, 10, 5);
+        Kot kot3 = new Kot("Marka", 4, 8, 3);
+        System.out.println(kot1.walka(kot2));
+        System.out.println(kot2.walka(kot3));
+        System.out.println(kot1.walka(kot3));
+
     }
 
     public static class Kot {
