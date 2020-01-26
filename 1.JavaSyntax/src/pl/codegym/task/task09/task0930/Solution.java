@@ -29,60 +29,18 @@ public class Solution {
     }
 
     public static void sortuj(String[] tablica) {
-        Map<Integer,Integer> map=new HashMap<>();
-        Map<Integer,String> list= new HashMap<>();
-
-        for (int i=0;i<tablica.length;i++){
-            if(isLiczba(tablica[i])){
-                int a=Integer.parseInt(tablica[i]);
-                map.put(i,a);
-            }else{
-                list.put(i,tablica[i]);
-            }
-        }
-
-        System.out.println(list);
-
-
-
 
         String s=null;
-        for(Map.Entry<Integer,String> a:list.entrySet()){
-            String value1=a.getValue();
+        for(String a:tablica){
 
-            for(Map.Entry<Integer,String> b:list.entrySet()){
-                String value2=b.getValue();
-                if(isWiekszeOd(value1,value2)){
-                    value1=a.getValue();
-                }else{
-                    s=value1;
-                    value1=value2;
-                    value2=s;
+            for(String b:tablica){
+                if(isLiczba(b)) {
+                    isWiekszeOd(a, b);
+
                 }
             }
-            System.out.println(list);
+
         }
-        int c=0;
-        for(Map.Entry<Integer,Integer> a:map.entrySet()){
-            int key=a.getValue();
-            for(Map.Entry<Integer,Integer> b:map.entrySet()){
-                int key2=b.getValue();
-                if(key<key2){
-                    c=key;
-                    key=key2;
-                    key2=c;
-
-                }else{
-                    key=key;
-                }
-
-            }
-            System.out.println(map);
-        }
-
-
-
-
 
     }
 
