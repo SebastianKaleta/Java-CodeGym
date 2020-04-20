@@ -9,7 +9,7 @@ OOP: Rozwiązanie problemów związanych z dziedziczeniem
                                                                                                     
 public class Solution {                                                                                                    
     public static interface LivingPart {                                                                                                    
-        boolean containsBones();
+       Object containsBones();
     }                                                                                                    
                                                                                                     
     public static class BodyPart implements LivingPart {                                                                                                    
@@ -19,13 +19,12 @@ public class Solution {
             this.name = name;                                                                                                    
         }                                                                                                    
                                                                                                     
-        public boolean containsBones() {
-            BodyPart body=new BodyPart(name);
-            return ;
+        public Object containsBones() {
+            return "Tak";
         }                                                                                                    
                                                                                                     
         public String toString() {                                                                                                    
-            return containsBones() ? name + " zawiera kości" : name + " nie zawiera kości";                                                                                                    
+            return containsBones().equals("Tak") ? name + " zawiera kości" : name + " nie zawiera kości";
         }                                                                                                    
     }                                                                                                    
                                                                                                     
@@ -37,8 +36,8 @@ public class Solution {
             this.isArtificial = isArtificial;                                                                                                    
         }                                                                                                    
                                                                                                     
-        public boolean containsBones() {                                                                                                    
-            return super.containsBones() && !isArtificial;                                                                                                    
+        public Object containsBones() {
+            return super.containsBones().equals("Tak") && !isArtificial?"Tak":"Nie";
         }                                                                                                    
     }                                                                                                    
                                                                                                     
